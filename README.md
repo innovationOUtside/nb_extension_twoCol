@@ -10,5 +10,5 @@ An additional setting (TO DO) provides a view where the notebook is presented to
 
 ```
 jupyter nbextension install nb_extension_twoCol --user
-jupyter nbextension enable nb_extension_twoCol/cell_tools/main
+jupyter nbextension enable nb_extension_twoCol/cell-tools/main
 ```
